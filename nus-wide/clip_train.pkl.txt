@@ -1,2 +1,0 @@
-Since GitHub has an upload limit for large files (larger than 25MB), and our file is 31.7MB, we have uploaded it to Baidu Netdisk. Please download it via the following link
-link: https://pan.baidu.com/s/1Oxfps-RMUBv89q4HyYXfvQ?pwd=ess9     code: ess9
